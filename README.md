@@ -1,6 +1,6 @@
 # WEB102 Prework - *FundYourGame*
 
-Submitted by: **Your Name Here**
+Submitted by: **Leisha Murthy**
 
 **FundYourGame** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
@@ -27,12 +27,14 @@ Here's a walkthrough of implemented features:
 https://imgur.com/gallery/cLJtVeZ
 
 
-GIF created with ...  
+GIF created with:
 [Kap](https://getkap.co/) for macOS
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Building the app presented a few challenges that I successfully navigated. Initially, I encountered a CORS issue when attempting to open the HTML file in the default browser. To overcome this, I opted to use an HTTP server, ensuring smooth communication between the components of the app.
+
+Another challenge involved the delay in reflecting changes made in VSCode onto the live site. At times, I had to restart VSCode to see the modifications take effect, leading to additional debugging efforts. Despite these challenges, the project was enjoyable and rewarding. I appreciated the opportunity to work on it, and the experience taught me valuable lessons in problem-solving and persistence. The project spanned several days, allowing me to tackle each aspect thoroughly and enhance my understanding of the concepts involved. Overall, it was a positive learning experience.
 
 ## License
 
