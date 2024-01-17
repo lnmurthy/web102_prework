@@ -1,8 +1,8 @@
-# WEB102 Prework - *FundYourGame*
+# WEB102 Prework - *Sea&FundGames*
 
 Submitted by: **Leisha Murthy**
 
-**FundYourGame** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Sea&FundGames** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: **14** hours spent in total
 
@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/gallery/cLJtVeZ' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/Nw3QOfG.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 https://imgur.com/gallery/cLJtVeZ
 
 
