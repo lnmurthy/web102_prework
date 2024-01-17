@@ -2,7 +2,7 @@
 
 body {
     font-family: 'Cabin';
-    background-color: #758190;
+    background-color: #fbd0f6;
 }
 
 #tentacles {
@@ -11,7 +11,7 @@ body {
 
 .header {
     display: flex;
-    background-color: lightblue;
+    background-color: rgb(236, 214, 254);
     padding: 1%;
     align-items: center;
     margin-left: -10px;
@@ -21,10 +21,14 @@ body {
 
 .stats-container {
     display: flex;
+    align-items: center;
+    justify-content: space-around; /* Adjust the spacing as needed */
+    background-color: #758190; /* Add your preferred background color */
+    padding: 1%; /* Adjust the padding as needed */
 }
 
 .stats-card {
-    background-color: #a8b0bc;
+    background-color: #ddf6e5;
     border-radius: 7px;
     padding: 1%;
     margin: 1%;
@@ -72,4 +76,27 @@ button {
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
+}
+.stats-container:hover {
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
+}
+
+/* extra addition from challenge 7*/
+
+body {
+    background-image: linear-gradient(to right, #758190, #758190 50%, #a8b0bc 50%, #a8b0bc);
+}
+
+.game-card:hover {
+    cursor: pointer;
+    transform: scale(1.05);
+    box-shadow: 0 0 30px rgba(173, 216, 230, 0.8);
+    transition: transform 0.3s ease, box-shadow 0.3s ease; 
+}
+
+button:hover {
+    background-color: #6b7c94; 
+    color: #ffffff;
+    transition: background-color 0.3s ease, color 0.3s ease;
 }
